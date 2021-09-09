@@ -1,6 +1,6 @@
 # Checkpoint mod
 
-A mod for sunset-shaped that counts how many checkpoints you have achieved for [low% speedruns](https://www.speedrun.com/sunset-shaped/full_game#Low). 
+A mod for sunset-shaped that counts how many checkpoints you have achieved for [low% speedruns](https://www.speedrun.com/sunset-shaped/full_game#Checkpoint_Low). 
 
 ## Installation
 
